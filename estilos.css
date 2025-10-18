@@ -1,10 +1,10 @@
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(128, 163, 229);
 }
 
 .title{
     font-size:40px ;
-    color: mediumblue;
+    color: rgb(244, 244, 247);
 }
 
 .logo{
